@@ -9,4 +9,3 @@ Data analysis of AADHAR dataset using Pyspark
 
 ## Creating a DataFrame
 Creating the DataFrame for starting the analysis using the pyspark library.
-
